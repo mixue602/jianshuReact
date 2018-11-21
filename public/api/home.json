@@ -1,0 +1,109 @@
+{
+    "success": true,
+    "data": {
+        "topicList": [{
+                "id": "1",
+                "title": "社会热点",
+                "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+            }, {
+                "id": "2",
+                "title": "手绘",
+                "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+            },
+            {
+                "id": "3",
+                "title": "旅行",
+                "imgUrl": "//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+            }
+        ],
+        "listData": [{
+            "id": "1",
+            "title": "离婚后，我才知道：撑起整个家的是前妻，不是我！",
+            "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+            "design": "离婚后想念前妻的男人，离婚后感到后悔的男人，除了对前妻存在感情方面的留恋之外，更多是在生活的方方面面的留恋。当一个人男人在婚姻中事事都不管，全都...",
+            "Href": "//www.gome.com.cn"
+        }, {
+            "id": "2",
+            "title": "哪里有什么开挂的人生：每一个闪光点背后都是汗水",
+            "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+            "design": "最近被各公众号刷屏的《隐》，以及影片中一人分饰2角的邓超。    一直以来，对邓超都没有什么太多的关注，无论是之前做导演和孙俪一起演的《恶...",
+            "Href": "//www.gome.com.cn"
+        }, {
+            "id": "3",
+            "title": "中国神仙排行榜",
+            "imgUrl": "",
+            "design": "一、神仙谱 创始灵(他有4个徒弟,鸿钧老祖、混鲲祖师、女娲娘娘和陆压道君） 宇宙诞生之初，有一先天混元之元灵，灵窍初开，渐具神智。这元灵无意中于...",
+            "Href": "//www.gome.com.cn"
+        }, {
+            "id": "4",
+            "title": "大学女生1年读600多本书！网友却说：用处不大...",
+            "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+            "design": " 来源 |中青报·中青在线 平均每天读书8小时，1年读600多本书…… 近日，山东大学文学院2018级硕士研究生丁安琪因为热爱读书、读书量惊人走红...",
+            "Href": "//www.gome.com.cn"
+        }],
+        "RecommendLst": [{
+            "id": "1",
+            "imgurl": "https://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+        }, {
+            "id": "2",
+            "imgurl": "https://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+        }, {
+            "id": "3",
+            "imgurl": "https://cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+        }, {
+            "id": "4",
+            "imgurl": "https://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+        }, {
+            "id": "5",
+            "imgurl": "https://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+        }],
+        "WriterList": [{
+            "id": "1",
+            "title": "简书大学堂",
+            "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+            "design": " 写了249.8k字 · 4.1k喜欢",
+            "Href": "//www.gome.com.cn"
+        }, {
+            "id": "2",
+            "title": "念远怀人",
+            "imgUrl": "//timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542272791637&di=1882db41f563bfd269c75dc4a8a12e9f&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201409%2F12%2F20140912224907_iRsY8.thumb.700_0.jpeg",
+            "design": " 写了249.8k字 · 4.1k喜欢",
+            "Href": "//www.gome.com.cn"
+        }, {
+            "id": "3",
+            "title": "格列柯南",
+            "imgUrl": "//timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1542272825548&di=447e81fd0251e8677352a5ffdd13037f&imgtype=0&src=http%3A%2F%2Fb-ssl.duitang.com%2Fuploads%2Fitem%2F201510%2F28%2F20151028123634_iCPKX.thumb.700_0.jpeg",
+            "design": " 写了249.8k字 · 4.1k喜欢",
+            "Href": "//www.gome.com.cn"
+        }, {
+            "id": "4",
+            "title": "王诗翔",
+            "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+            "design": " 写了249.8k字 · 4.1k喜欢",
+            "Href": "//www.gome.com.cn"
+        }, {
+            "id": "5",
+            "title": "须僧",
+            "imgUrl": "//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+            "design": " 写了249.8k字 · 4.1k喜欢",
+            "Href": "//www.gome.com.cn"
+        }],
+        "bannerList": [{
+            "id": "1",
+            "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4535/c4ef5054e0e08459ba8d548c035a1306e97820a9.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540",
+            "href": ""
+        }, {
+            "id": "2",
+            "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4531/a71b88d43f0d0a32d6790d43d68b1a4b19264a8f.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540",
+            "href": ""
+        }, {
+            "id": "3",
+            "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4529/d8d780d8dd4a32485655815c2cb4e367b61cb15c.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540",
+            "href": ""
+        }, {
+            "id": "4",
+            "imgUrl": "//upload.jianshu.io/admin_banners/web_images/4524/65fb6e8f81ccbbc7dacf5c380e0366a003ba7881.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/1250/h/540",
+            "href": ""
+        }]
+    }
+}
